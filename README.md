@@ -26,7 +26,11 @@ R&D and operations of large-model training platforms — keeping training jobs *
 
 ## 📡 Signal Intelligence
 
-Research on intelligent detection and recognition algorithms for radar & communication signals (deep learning).
+Research on intelligent signal processing for radar & communication signals:
+
+- **Signal detection & processing** — Fourier analysis, time-frequency methods, communication-signal detection
+- **Modulation recognition** — automatic modulation classification
+- **Vision-based signal intelligence** — transforming RF analysis into computer-vision problems (spectrograms, constellation images) and solving them with deep learning
 
 ---
 
