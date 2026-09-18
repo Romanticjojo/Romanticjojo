@@ -26,7 +26,7 @@ R&D and operations of large-model training platforms — keeping training jobs *
 
 ## 📡 Signal Intelligence
 
-Research on intelligent detection and recognition algorithms for radar & communication signals (deep learning) — *a lighter track, done seriously.*
+Research on intelligent detection and recognition algorithms for radar & communication signals (deep learning).
 
 ---
 
