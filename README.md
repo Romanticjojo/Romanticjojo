@@ -20,7 +20,7 @@ R&D and operations of large-model training platforms — keeping training jobs *
 
 **Toolbox**
 
-`K8s` · `PyTorch` · `Linux` · `Docker`
+`Volcano` · `Ray` · `Argo Workflows` · `Prometheus` · `Loki` · `PyTorch` · `Kubernetes` · `Docker`
 
 ---
 
