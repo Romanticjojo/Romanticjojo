@@ -4,8 +4,6 @@
 
 **AI Infrastructure Engineer**
 
-*Graduated from Zhejiang University*
-
 构建大模型训练基础设施 · Building training infrastructure for large models
 
 </div>
